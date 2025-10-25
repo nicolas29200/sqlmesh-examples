@@ -5,6 +5,6 @@ gateways:
             database: db/sushi-example.db
 
 default_gateway: local
-
+ 
 model_defaults:
     dialect: duckdb
